@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.6",
-    "url":  "https://github.com/nmax07152020-sudo/pointofsale/releases/download/ota-v1.0.6/ota-v1.0.6.zip",
-    "checksum":  "de4bd7592c85110602a8bd567faa08e38ad6b75149a1cad373df4fb94837126d",
-    "notes":  "fix"
+    "version":  "1.0.7",
+    "url":  "https://github.com/nmax07152020-sudo/pointofsale/releases/download/ota-v1.0.7/ota-v1.0.7.zip",
+    "checksum":  "485b0afd0311e250bc4a39fd337a629a2151aa8fa3af4457c756d15b74787e95",
+    "notes":  "update"
 }
